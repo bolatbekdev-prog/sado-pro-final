@@ -1,0 +1,8 @@
+{
+  "name": "Sado pro",
+  "description": "So'qovlar uchun qo'l harakatini matnga va matnni qo'l harakatiga tarjima qiluvchi innovatsion dastur.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
